@@ -1,0 +1,21 @@
+# Archivos de compilación e intermedios
+*.iml
+.gradle
+/build
+/*/build
+/local.properties
+.DS_Store
+
+# Archivos de configuración de Android Studio / IntelliJ
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/caches
+/.idea/navEditor.xml
+/.idea/assetStudio.xml
+
+# Capturas de pantalla y rastreos de ejecuciones
+/captures
+.externalNativeBuild
+.cxx
+.idea/
